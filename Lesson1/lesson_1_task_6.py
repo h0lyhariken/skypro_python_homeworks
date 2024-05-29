@@ -28,5 +28,14 @@ def print9():
 def print0():
     print(0, end="")
 
-print8(),print8(),print0(),print0(),print5(),print5(),print5(),print3(),print5(),print3(),print5()
-#Попробовал написать код в столбик - тоже сработало, но оставил верхний вариант
+print8()
+print8()
+print0()
+print0()
+print5()
+print5()
+print5() 
+print3() 
+print5()
+print3()
+print5()
